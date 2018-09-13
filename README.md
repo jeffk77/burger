@@ -1,4 +1,4 @@
-The Burger App
+#The Burger App
 
 This application allows the user to input different burgers, that they can then devour, utilizing Express, and has been uploaded to Heroku.
 
